@@ -12,4 +12,6 @@ https://towardsdatascience.com/autoencoders-bits-and-bytes-of-deep-learning-eaba
 The dataset that we are using is 1 million movie reviews which is freely available to download
 https://grouplens.org/datasets/movielens/
 
+All the details regarding the dataset is included in the dataset floder.
+
 Our goal is built a recommender system to provide personalized information by learning the user’s interests from traces of interaction with that user.We have used the Auto Encoder Model of the Deep Learning to achieve the task.
